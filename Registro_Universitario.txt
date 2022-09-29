@@ -1,0 +1,11 @@
+20,  Franz Joel,  Quispe Mamani, M,  Universitario, 20
+21,  Andrea Maria,  Delgado Laura, M,  Secrecetari@, 21
+22,  Rosa,  Mamani Cruz, F,  Universitario, 22
+23,  Jose Andres,  Roque Suarez, M,  Docente, 23
+24,  Raul,  Martinez Alvarez, M,  Visitante, 24
+25, Rene, Palacios Romero, M, Docente, 25
+26, Pedro Juan, Roque Mesa, M, Universitario, 26
+27, Hernan, Siles Suazo, M, Universitario, 27
+28, Andrea Juana, Barrientos Ayllon, F, Universitario, 28
+29, Oscar, Ramirez Yujra, M, Universitario, 29
+30, Franz, Tamayo Arismendi, M, Universitario, 30
